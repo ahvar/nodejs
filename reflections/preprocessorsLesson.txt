@@ -1,0 +1,7 @@
+1.) What are preprocessors in the context of CSS?  
+
+Proprocessors take code in a particular format (e.g. LESS or SASS) and produce processed CSS.
+
+2.) How can proprocessors help developers avoid redundancy in their code?  
+
+Stylesheets can be repetitive and redundancy in code can result in failure and can create confusion for developers. CSS does not follow the Do Not Repeat Yourself (DRY) principle.  CSS preprocessors allow you to write code as per the DRY principle, making it faster, efficient, and maintainable.
